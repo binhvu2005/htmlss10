@@ -1,0 +1,23 @@
+.container{
+    width: 250px;
+    height: 100vh;
+    background-color: rgb(1, 1, 52);
+    position: relative;
+    padding: 20px;
+    font-size: 18px;
+    
+}
+
+.tongquan{
+
+    height: 40px;
+    color: white;
+    border-radius: 4px;
+    display: flex; 
+    align-items: center;
+    gap: 20px;
+}
+    
+.tongquan:hover{
+    background-color: rgb(64, 64, 119);
+}
